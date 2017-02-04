@@ -1,0 +1,17 @@
+{
+  "name": "hyper-neon",
+  "readme": "ERROR: No README data found!",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+URL"
+  },
+  "scripts": {},
+  "version": "0.1.1",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyperterm-theme"
+  ],
+  "dependencies": {}
+}
