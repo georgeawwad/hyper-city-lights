@@ -1,6 +1,6 @@
 # hyper-city-lights
 
-> Dark neon theme for [Hyper](https://hyper.is/) (formerly HyperTerm).
+> Dark theme based on City Lights, for [Hyper](https://hyper.is/) terminal.
 
 <!-- ![](screenshot.png) -->
 
