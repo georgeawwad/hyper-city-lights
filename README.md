@@ -1,4 +1,4 @@
-# hyper-neon
+# hyper-city-lights
 
 > Dark neon theme for [Hyper](https://hyper.is/) (formerly HyperTerm).
 
@@ -7,7 +7,7 @@
 ## Install
 
 `git clone` to `~/.hyper_plugins/local` folder.
-Then add `hyper-neon` to localPlugins within the `~/.hyper.js` file.
+Then add `hyper-city-lights` to localPlugins within `~/.hyper.js` file.
 
 ## License
 
